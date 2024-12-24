@@ -14,6 +14,7 @@ for notes on deploying the project on a live system.
 Requirements for the software and other tools to build, test and push 
 - [Selenium](https://www.selenium.dev/)
 - [pytest](https://docs.pytest.org/en/stable/)
+- [Poetry](https://python-poetry.org/)
 - [Github CLI](https://cli.github.com/)
 
 ## Versioning
